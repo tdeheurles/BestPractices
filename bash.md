@@ -1,0 +1,4 @@
+- https://github.com/progrium/bashstyle
+- http://mywiki.wooledge.org/BashGuide/Practices
+- http://wiki.bash-hackers.org/scripting/style
+- http://kvz.io/blog/2013/11/21/bash-best-practices/
